@@ -50,3 +50,11 @@ Required firmware:
 - Fix circle to search
 - Blurs are expensive!!! (boost GPU frequency when rendering blur)
 - Bring back dolby atmos
+
+============ 3 November 2024 (5.2.1 - EOL - GAPPS ONLY) ===============
+
+- Fix crash when updating max cached processes
+- Fix shake gestures
+- Fix play integrity spoofing
+- Add toggle for blocking GMS key attestation
+- Start qcrild services at boot
