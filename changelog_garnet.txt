@@ -53,6 +53,7 @@ Required firmware:
 
 ============ 3 November 2024 (5.2.1 - EOL - GAPPS ONLY) ===============
 
+- Merge October security patch
 - Fix crash when updating max cached processes
 - Fix shake gestures
 - Fix play integrity spoofing
