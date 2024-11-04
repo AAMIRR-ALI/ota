@@ -4,6 +4,29 @@ Device: Redmi K20 Pro / MI 9T Pro (raphael/in)
 Device maintainer: Mohammad Al Arabi (@YourDulavai)
 Required firmware: MIUI A11 Firmware of your region
 
+===== 05-11-24 =====
+HOTFIX 2 (october security update):
+- Fixed some log spam
+- Fixed play integrity failing 
+- Fixed (readded) all previous broken source side features 
+- Merge October security patch
+- Fixed Dolby crashing 
+- Switch to Boolx kernel
+- Use common libqti-perfd-client and power-libperfmgr
+- powerhint: Use actual min/max frequencies
+- powerhint: Let min freq not exceed max freq
+- powerhint: Tune gpu freq
+- powerhint: Tune cpu freq
+- powerhint: Set correct gpu max freq
+- powerhint: Remove camera actions and unused nodes
+- powerhint: Decrease launch boost to 3sec
+- Optimize cpu configuration for kryo485
+- Switch to Google Pixel GKI LMK/ZRAM tunings
+- Fix goodix_fod soname
+- Add pixel_pitch
+- update fingerprint service
+- Drop perf scrolling
+
 ===== 25-09-24 =====
 HOTFIX:
 - Fixed auto brightness 
