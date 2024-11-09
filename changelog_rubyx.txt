@@ -34,3 +34,13 @@ Required firmware: Included in ROM
 - Patch miuicamera to allow launching any gallery
 - Restore default dolby behavior of starting at boot
 - Fix circle to search
+
+============ 9 November 2024 (5.2.1 - A14 **FINAL** BUILD) =============
+
+- Merge October security patch
+- Fix crash when updating max cached processes
+- Fix shake gestures
+- Fix play integrity spoofing
+- Add toggle for blocking GMS key attestation
+- abandon broken keybox spoofing
+- Fix some sepolicy denials when apps try to load specific graphics libraries
