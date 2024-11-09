@@ -2,11 +2,11 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 13 Pro 5G / POCO X6
 Device maintainer: hiroshi. (Superuser)
-Required firmware: 
-- GLOBAL - **any** version from OS1.0.9.0.UNRMIXM to OS1.0.12.0.UNRMIXM (models ending in "G") 
-- INDIA - OS1.0.8.0.UNRINXM (models ending in "I") 
+Recommended firmware: USE THE UNIVERSAL/MODEMSWAP FIRMWARE IN THE DEVICE SUPPORT GROUP(S)!!!!
+OTHERWISE these have been tested:
+- GLOBAL - **any** version from OS1.0.9.0.UNRMIXM to OS1.0.15.0.UNRMIXM (models ending in "G") 
+- INDIA - OS1.0.14.0.UNRINXM (models ending in "I") 
 - CHINA - OS1.0.7.0.UNRCNXM (models ending in "C")
-(Global will work on any model, but you MUST have the modem.img flashed for your model corresponding with the versions above)
 
 ============ 28 August 2024 (5.0) ===============
 
