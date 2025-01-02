@@ -1,7 +1,7 @@
 {
 	"response": [
 		{
-			"maintainer": "AAMIR ALI",
+			"maintainer": "Y_azzDaN",
 			"oem": "Realme",
 			"device": "Realme X50 Pro",
 			"filename": "RisingOS-5.0-FINAL_BETA-20240811-GAPPS-OFFICIAL-bladerunner-ota-signed.zip",
@@ -19,7 +19,7 @@
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "https://t.me/Aamirr_Ali",
+			"telegram": "https://t.me/Y_azzDaN",
 			"dt": "https://github.com/RisingOSS-devices/device_realme_bladerunner",
 			"common-dt": "https://github.com/RisingOSS-devices/device_realme_sm8250-common",
 			"kernel": "https://github.com/RisingOSS-devices/kernel_realme_sm8250"
